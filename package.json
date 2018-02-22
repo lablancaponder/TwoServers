@@ -1,0 +1,19 @@
+{
+  "name": "twoservers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lponder82/TwoServers.git"
+  },
+  "author": "LaBlanca Ponder",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lponder82/TwoServers/issues"
+  },
+  "homepage": "https://github.com/lponder82/TwoServers#readme"
+}
